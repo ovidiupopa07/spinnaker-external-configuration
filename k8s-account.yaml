@@ -1,6 +1,7 @@
 kubernetes:
   enabled: true
   primaryAccount: external
+  custom-property-binding-enabled: true
   accounts:
     # Account for Spinnaker's own kubernetes cluster (Optional).
     - name: external

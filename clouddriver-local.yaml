@@ -22,7 +22,7 @@ kubernetes:
     debug: true
     metrics: false
     checkPermissionsOnStartup: false
-    kubeconfigFile: configserver:EQRMZEA
+    kubeconfigFile: configserver:kubeconfig.yml
     customResources: []
     cachingPolicies: []
     kinds: []

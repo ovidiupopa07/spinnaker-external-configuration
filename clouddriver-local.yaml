@@ -1,7 +1,7 @@
 kubernetes:
   enabled: true
   primaryAccount: EQRMZEA
-  custom-property-binding-enabled: false
+  custom-property-binding-enabled: true
   accounts:
   - name: EQRMZEA
     environment: WKCX

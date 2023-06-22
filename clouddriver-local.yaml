@@ -9,7 +9,6 @@ kubernetes:
     environment: WKCX
     accountType: APVW
     context: JVYY
-    kubeconfigFile: null
     kubeconfigContents: null
     kubectlExecutable: null
     kubectlRequestTimeoutSeconds: 8687
@@ -23,6 +22,7 @@ kubernetes:
     debug: true
     metrics: false
     checkPermissionsOnStartup: false
+    kubeconfigFile: configserver:EQRMZEA
     customResources: []
     cachingPolicies: []
     kinds: []
